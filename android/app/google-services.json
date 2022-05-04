@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "87974802677",
+    "project_id": "taskermsc-af182",
+    "storage_bucket": "taskermsc-af182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87974802677:android:72bde36ce020ed011101bc",
+        "android_client_info": {
+          "package_name": "com.msc.taskermsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87974802677-q5cce06ojgc2ckis9i4kemovc4lrht15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.msc.taskermsc",
+            "certificate_hash": "2919466d0fcac07e00c37de761a47344b0e20712"
+          }
+        },
+        {
+          "client_id": "87974802677-o111m8qu0ev042bujmoa5g90fsdeqg46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKOltvk3wrm8tf3weNTSZ5tRofwWpwDZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87974802677-o111m8qu0ev042bujmoa5g90fsdeqg46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
