@@ -7,13 +7,13 @@ Microsoft Students Community KiiT Chapter.
 
 ## Screenshots
 
-[![image](https://www.linkpicture.com/q/WhatsApp-Image-2022-05-04-at-7.35.33-PM_1.jpeg)](https://www.linkpicture.com/view.php?img=LPic62728a36cd2e3552330164)
-
+[![image](https://www.linkpicture.com/view.php?img=LPic62754086a69a9450369217)](https://www.linkpicture.com/view.php?img=LPic62754086a69a9450369217)
+<!-- 
 [![image](https://www.linkpicture.com/q/WhatsApp-Image-2022-05-04-at-7.35.34-PM_1.jpeg)](https://www.linkpicture.com/view.php?img=LPic62728a36cd2e3552330164)
 
 [![image](https://www.linkpicture.com/q/WhatsApp-Image-2022-05-04-at-7.36.24-PM_1.jpeg)](https://www.linkpicture.com/view.php?img=LPic62728a36cd2e3552330164)
 
-[![image](https://www.linkpicture.com/q/WhatsApp-Image-2022-05-04-at-7.35.35-PM_1.jpeg)](https://www.linkpicture.com/view.php?img=LPic62728a36cd2e3552330164)
+[![image](https://www.linkpicture.com/q/WhatsApp-Image-2022-05-04-at-7.35.35-PM_1.jpeg)](https://www.linkpicture.com/view.php?img=LPic62728a36cd2e3552330164) -->
 ## Features
 
 - Assigning tasks made simpler.
